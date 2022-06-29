@@ -1,0 +1,17 @@
+D:\Practice\pdfToJpeg\notepad\notepad\bin\Debug\net6.0-windows\notepad.exe
+D:\Practice\pdfToJpeg\notepad\notepad\bin\Debug\net6.0-windows\notepad.deps.json
+D:\Practice\pdfToJpeg\notepad\notepad\bin\Debug\net6.0-windows\notepad.runtimeconfig.json
+D:\Practice\pdfToJpeg\notepad\notepad\bin\Debug\net6.0-windows\notepad.dll
+D:\Practice\pdfToJpeg\notepad\notepad\bin\Debug\net6.0-windows\notepad.pdb
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.csproj.AssemblyReference.cache
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.Form1.resources
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.csproj.GenerateResource.cache
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.AssemblyInfoInputs.cache
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.AssemblyInfo.cs
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.csproj.CoreCompileInputs.cache
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.dll
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\refint\notepad.dll
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.pdb
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\notepad.genruntimeconfig.cache
+D:\Practice\pdfToJpeg\notepad\notepad\obj\Debug\net6.0-windows\ref\notepad.dll
